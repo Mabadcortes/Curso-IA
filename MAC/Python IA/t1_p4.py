@@ -1,6 +1,7 @@
 # Crea un programa que lea el día de la semana de la persona 
 # (como una cadena de texto) y responda con una actividad habitual para ese día.
 
+
 print("Introduce el nº del día de la semana (1 al 7):")
 diaSemana = int(input())
 
