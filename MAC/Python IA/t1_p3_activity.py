@@ -3,6 +3,7 @@
 # Y que te diga cuál es el plato del día
 from random import *
 
+
 print("Introduce cuantos días de la semana quieres consultar su plato del día")
 numDias = int(input())
 cont = 0
