@@ -1,6 +1,7 @@
 # ACTIVIDAD: Cálculo de áreas simples.
 import math
 
+
 print("Cálculo de áreas:")
 print("-----------------")
 print("1 - Cuadrado")
